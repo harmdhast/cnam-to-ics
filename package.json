@@ -1,0 +1,21 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^14.7.1",
+    "got": "^12.5.2",
+    "ical-generator": "^3.5.2",
+    "node-cron": "^3.0.2",
+    "node-html-parser": "^6.1.4",
+    "node-ical": "^0.15.3",
+    "puppeteer": "^19.4.0"
+  }
+}
